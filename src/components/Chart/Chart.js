@@ -82,7 +82,7 @@ tooltip: {
 
 series: [
     {
-        name: "Browsers",
+        name: "Comments",
         colorByPoint: true,
         data: state,
     }
